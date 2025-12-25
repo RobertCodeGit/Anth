@@ -1,4 +1,6 @@
 # Anth
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18056227.svg)](https://doi.org/10.5281/zenodo.18056227)
+
 Anthropology of Problem-Solving Strategies
 Anthropology of Problem-Solving Strategies
 A short position paper
