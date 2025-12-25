@@ -1,4 +1,4 @@
-# anth
+# Anth
 Anthropology of Problem-Solving Strategies
 Anthropology of Problem-Solving Strategies
 A short position paper
